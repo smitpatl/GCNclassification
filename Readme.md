@@ -25,7 +25,7 @@ $ python motion_hover.py
 ```
 You should see something like this
 
-<img src="images/tool.jpg" width="480" alt="RITE dataset" />
+<img src="images/tool.jpg" width="320" alt="RITE dataset" />
 
 This will generate the ground truth labels and the edge information which can be used
 as input. To run the model and perform node classification run the following
