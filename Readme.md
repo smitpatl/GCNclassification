@@ -55,7 +55,7 @@ Approximation on nodes is achieved by following these steps:
 * Backpropagate the loss and update the weight matrices W in each layer.
 
 ## Results
-results were achieved with the following parameters: 2 hidden
+Results were achieved with the following parameters: 2 hidden
 layers (64,32), ReLU as activation, learning rate=0.001 and trained over 800 epochs to get
 the following results.
 
